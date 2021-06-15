@@ -1,0 +1,9 @@
+li a {
+    color: green;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+body {
+    background: url("../polls/yellow.jpg");
+}
